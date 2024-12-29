@@ -1,5 +1,5 @@
 # RCBM-Neurips2024
-Code for replicating the experiments of Relational Concept Bottleneck Models
+Code for replicating the experiments of Relational Reasoning Machines (R2N).
 
 The library requirements are listed in:
 keras-ns/requirements.txt
