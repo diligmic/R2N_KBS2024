@@ -1,0 +1,1 @@
+r1:1.0:_also_see(x,y), _derivationally_related_form(x,y), _has_part(x,y), _hypernym(x,y), _instance_hypernym(x,y), _member_meronym(x,y), _member_of_domain_region(x,y), _member_of_domain_usage(x,y), _similar_to(x,y), _synset_domain_topic_of(x,y) -> _verb_group(x,y)

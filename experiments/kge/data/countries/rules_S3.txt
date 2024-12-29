@@ -1,0 +1,4 @@
+var2domain X countries W subregions Z regions Y countries K countries
+r0:1:locatedInCS(X,W), locatedInSR(W,Z) -> locatedInCR(X,Z)
+#r1:1:neighborOf(X,Y), neighborOf(Y,K), locatedIn(K,Z) -> locatedInCR(X,Z)
+#r2:1:neighborOf(X,Y), locatedInCS(Y,Z), locatedInCS(X,W), locatedInSR(W,Z) -> locatedInCR(X,Z)

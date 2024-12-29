@@ -1,0 +1,12 @@
+locatedIn(italy,south_europe).
+locatedIn(italy,europe).
+locatedIn(south_europe,europe).
+locatedIn(palau,micronesia).
+locatedIn(palau,oceania).
+locatedIn(micronesia,oceania).
+isRegion(south_europe).
+isRegion(micronesia).
+isContinent(europe).
+isContinent(oceania).
+isCountry(italy).
+isCountry(palau).
