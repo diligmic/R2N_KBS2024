@@ -1,4 +1,4 @@
-# RCBM-Neurips2024
+# R2N-KBS 2024
 Code for replicating the experiments of Relational Reasoning Machines (R2N).
 
 The library requirements are listed in:
